@@ -197,4 +197,4 @@ async fn bar() {
 ```
 There is actually an [interesting paper](https://hal.science/hal-05006570v2).
 It explores the tail call optimization on async functions, albeit not exactly in Rust context.
-That's a big paper, maybe I can write something else after reading it.
+
